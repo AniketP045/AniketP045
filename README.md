@@ -1,43 +1,47 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aniket Patil</h1>
 
-# Hi 👋, I'm Aniket Patil
+<h3 align="center">
+MCA Student | Full Stack Developer | MERN Enthusiast
+</h3>
 
-### MCA Student | Full Stack Developer | Java & MERN Enthusiast
+<p align="center">
+🚀 Open Source Contributor
+</p>
 
-## Open Source Contributor 🚀
+---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 MCA Student
-- 💻 Full Stack Web Developer (MERN)
-- ☕ Strong in Java, JavaScript & Web Development
-- 🚀 Currently building real-world projects
-- 🎯 Goal: Become a Professional Software Engineer
+- 💻 Full Stack Developer (MERN)
+- 🔥 Strong in Java, JavaScript & Web Development
+- 🚀 Building Real World Projects
+- 🎯 Goal: Software Engineer
 - 📍 Kolhapur, Maharashtra
 
 ---
 
 ## 🛠️ Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
-- 🏠 StayNest Vacation Rental Platform
 - 🚦 Traffic Management System
-- 🤖 AI & ML Projects
+- 🏠 StayNest Vacation Rental Platform
 
 ---
 
@@ -46,9 +50,3 @@
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketP045&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketP045&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/AniketP045
