@@ -50,3 +50,64 @@ MCA Student | Full Stack Developer | MERN Enthusiast
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketP045&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketP045&layout=compact&theme=tokyonight)
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/AniketP045">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 🚀 Skills & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project Name | Tech Stack |
+|-------------|------------|
+| 🏠 StayNest Vacation Rental Platform | MERN Stack |
+| 🚦 Traffic Management System | Python, OpenCV |
+| 🤖 AI & ML Projects | Python, Machine Learning |
+| 🌦 Weather App | React.js |
+| 📚 Study Planner | Node.js, MongoDB |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketP045&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketP045&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AniketP045&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake Animation
+
+![Snake animation](https://raw.githubusercontent.com/AniketP045/AniketP045/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Visitor Counter
+
+![](https://komarev.com/ghpvc/?username=AniketP045&color=blue)
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Learn. Build. Repeat." 🔥
+
+</div>
