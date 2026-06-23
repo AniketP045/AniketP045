@@ -62,6 +62,15 @@ MCA Student | Full Stack Developer | MERN Enthusiast
 </a>
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/aniket-patil-0ab36229a" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/AniketP045" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 ---
 
 ## 🚀 Skills & Technologies
