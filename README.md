@@ -57,21 +57,22 @@ MCA Student | Full Stack Developer | MERN Enthusiast
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/AniketP045">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aniket-patil-0ab36229a" target="_blank">
+<a href="https://www.linkedin.com/in/aniket-patil-0ab36229a">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/AniketP045" target="_blank">
+<a href="https://www.instagram.com/aniketpatil__45/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/AniketP045">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
----
 
 ## 🚀 Skills & Technologies
 
